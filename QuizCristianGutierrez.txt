@@ -1,5 +1,5 @@
 --PUNTO1
-CREATE TABLESPACE big_tbs_cristian
+CREATE BIGFILE TABLESPACE big_tbs_cristian
 DATAFILE 'cristian_01.dbf' SIZE 1G;
 
 --PUNTO2
